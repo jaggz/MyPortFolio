@@ -290,23 +290,23 @@ main {
 
 /* portfolio project images */
 /* Add portfolio project images here using background images*/
-.run-buddy {
+.trackemp {
   background-image: url("./assets/images/run-buddy.jpg");
 }
 
-.led-wall {
+.weatherForcast {
   background-image: url("./assets/images/ledwall.jpg");
 }
 
-.react-calc {
+.buildVehicle {
   background-image: url("./assets/images/react-calc.jpg");
 }
 
-.pastel-puzzles {
+.readmeGen {
   background-image: url("./assets/images/pastel-puzzles.jpg");
 }
 
-.surf-report {
+.portfolio {
   background-image: url("./assets/images/surfer.jpg");
 }
 .contact-list {
@@ -353,6 +353,15 @@ main {
     text-align: left;
     font-size: 7vw;
   }
+  .flex-item div{
+   
+    font-size:0.8rem;
+   
+  }
+  .flex-item h3{
+    font-size:0.8rem;
+
+  }
 }
 
 /* TODO: add media query for a max-width of 768px */
@@ -361,9 +370,11 @@ main {
   
   .flex-item:first-child {
     min-height: 150px;
+
   }
   .flex-item {
-    min-height: 150px;
+    min-height: 50px;
+   
   }
 }
 

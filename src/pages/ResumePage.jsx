@@ -1,7 +1,7 @@
 // This is a static page mocking an "About Us" section for our fake user data
 export default function ResumePage() {
     return (
-      <div className="container pt-4">
+      <div className="container col-12 p-4 m-4 shadow-lg  bg-light rounded">
         <div className="col-6 m-4">
           <span>Click to Download Resume: </span>
           <a className="icon-link-hover" href='/somefile.txt' download><i class="bi bi-download"></i>

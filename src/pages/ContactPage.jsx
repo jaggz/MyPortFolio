@@ -58,7 +58,10 @@ const isEmailValid = (email) => {
    
     if (!error && inputValue && textValue && email) {
       // Submit form
-      alert("Form Submitted Successfully")
+      setEmail('');
+      setInputValue('');
+      setTextValue('');
+      alert('Form Submitted Successfully!!')
    
       
       
@@ -70,9 +73,9 @@ const isEmailValid = (email) => {
   };
 
   return (
-    <div className="col col-6">
+    <div className="col col-lg-6 col-sm-12">
       <h2 className='fw-bold fs-5 text-dark'>Contact</h2>
-      <form className="form-control shadow-lg" onSubmit={handleSubmit}>
+      <form className="form-control shadow-lg bg-light" onSubmit={handleSubmit}>
         <div className="mb-6 m-5 ">
         <label for="name" class="form-label">Name:</label>
           <input className="form-control shadow-lg"
