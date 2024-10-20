@@ -4,7 +4,7 @@ export default function AboutPage() {
       <div className="container col-12 p-4 m-4 shadow-lg  bg-light rounded">
         <h2 className=' fw-bold fs-5'>About Me</h2>
         <div className="text-start">
-        <img src="./src/assets/images/IMG_6029.jpg" className="rounded-circle img-thumbnail shadow-lg p-1 mb-2 bg-light rounded" alt="..." style={{'width':'100px','height':'100px'}}></img>
+        <img src="./src/assets/images/profile.png" className="rounded-circle img-thumbnail shadow-lg p-1 mb-2 bg-light rounded" alt="..." style={{'width':'100px','height':'100px'}}></img>
         </div>
         <p className="shadow-lg p-3 mb-5 bg-light rounded">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus
