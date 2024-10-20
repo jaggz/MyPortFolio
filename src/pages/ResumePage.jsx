@@ -4,7 +4,7 @@ export default function ResumePage() {
       <div className="container col-12 p-4 m-4 shadow-lg  bg-light rounded">
         <div className="col-6 m-4">
           <span>Click to Download Resume: </span>
-          <a className="icon-link-hover" href='/somefile.txt' download><i class="bi bi-download"></i>
+          <a className=" icon-link icon-link-hover" href='/somefile.txt' download><i class="bi bi-download"></i>
           </a>
         </div>
         <div className="col-6">

@@ -1,5 +1,6 @@
 // This is a static page mocking an "About Us" section for our fake user data
 export default function AboutPage() {
+
     return (
       <div className="container col-12 p-4 m-4 shadow-lg  bg-light rounded">
         <h2 className=' fw-bold fs-5'>About Me</h2>
