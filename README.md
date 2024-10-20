@@ -2,6 +2,9 @@
 ## Description
 - This is a single-page application portfolio for a web developer. AS we load the portfolio we are presented with a page containing a header, a section for content, and a footer.
 
+  ![PageScreenshot](./src/assets/images/PageScreenshot.png)
+
+
 - In the header section we have developer's name and navigation with titles corresponding to different sections of the portfolio.
 - In the Navogation Bar we have the titles `About Me`, `Portfolio`, `Contact`, and `Resume`, and the title corresponding to the current section is highlighted.
 - The `About-Me` title and section are selected by default and you gona see a recent photo or avatar of the developer and a short bio about them.
@@ -13,3 +16,15 @@
 - As you Click `Resume` section  its gona present the link to download resume and list of Developer's Proficiencies.
 - At the end of each page you gona see the Footer which includes icon links to the developer’s GitHub and LinkedIn profiles, and their profile on Twitter.
 - Here is the link for the Deployed App on Netlify: `https://earnest-sprinkles-335372.netlify.app/`.
+
+## license 
+- ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
+- ![React Badge](https://img.shields.io/badge/React.JS-text?style=plastic&logo=tv&color=green)
+- ![Javascript Badge](https://img.shields.io/badge/Javascript,HTML,CSS-text?style=plastic&logo=tv&color=yellow)
+## Questions 
+- ![GitHub Username](https://img.shields.io/badge/GitHub_Username_:-@Jaggz-green)
+- ![GitHub Email](https://img.shields.io/badge/Email_:-js.dohil@gmail.com-yellow)
+
+
+
+
