@@ -1,4 +1,4 @@
-// This is a static page mocking an "About Us" section for our fake user data
+// Html for Resume Page with Download Resume and Developer's Proficiencies
 export default function ResumePage() {
     return (
       <div className="container col-12 p-4 m-4 shadow-lg  bg-light rounded">

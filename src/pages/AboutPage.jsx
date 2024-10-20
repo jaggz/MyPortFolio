@@ -1,4 +1,4 @@
-// This is a static page mocking an "About Us" section for our fake user data
+// Present about Developer on the about page
 export default function AboutPage() {
 
     return (

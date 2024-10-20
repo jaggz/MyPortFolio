@@ -1,3 +1,4 @@
+//Nav link UI render in the Header component
 export default function Nav({ links }) {
     const style = {
         backgroundImage: "url(https://mdbootstrap.com/img/new/standard/city/041.jpg)"

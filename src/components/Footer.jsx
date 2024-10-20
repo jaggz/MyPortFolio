@@ -1,3 +1,4 @@
+//Footer Component with Required Links
 export default function Footer(){
     const style = {
         "--bs-icon-link-transform": "translate3d(0, -.175rem, 0)",
